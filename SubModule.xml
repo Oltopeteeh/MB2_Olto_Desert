@@ -1,0 +1,15 @@
+﻿<Module>
+  <Name value="Olto Desert" />
+  <Id value="Olto_Desert" />
+  <Version value="v1.1.0" />
+  <SingleplayerModule value="true" />
+  <MultiplayerModule value="false" />
+	<SubModules>
+		<SubModule>
+			<Name value="Olto_Desert"/>
+			<DLLName value="Olto_Desert.dll"/>
+			<SubModuleClassType value="Olto_Desert.Olto_Desert_SubModule"/>
+			<Tags/>
+		</SubModule>
+	</SubModules>
+</Module>
